@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: TEDAI San Francisco
-  adjective: TEDAI San Franciscan
+  name: TEDxSDG
+  adjective: TEDxSDG
 create_goals:
   previous_next_links: false
   goals: []

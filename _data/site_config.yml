@@ -23,7 +23,7 @@ cookie_consent_form:
   enabled: false
 country:
   name: US
-  adjective: US
+  adjective: American
 create_goals:
   previous_next_links: false
   goals: []
